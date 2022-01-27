@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pfpg/static/css/main.ce1f1ee2.css",
+    "main.js": "/pfpg/static/js/main.02d2f45e.js",
+    "index.html": "/pfpg/index.html",
+    "main.ce1f1ee2.css.map": "/pfpg/static/css/main.ce1f1ee2.css.map",
+    "main.02d2f45e.js.map": "/pfpg/static/js/main.02d2f45e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1f1ee2.css",
+    "static/js/main.02d2f45e.js"
+  ]
+}
